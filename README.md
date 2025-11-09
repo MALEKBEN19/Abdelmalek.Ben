@@ -1,2 +1,2 @@
-# Abdelmalek.Ben
+# AbdelmalekBen
 ## Project 1
